@@ -1,2 +1,1 @@
-# Python Mini Projects
-Face Detection With Python
+# Face Detection With Python
